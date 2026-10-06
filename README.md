@@ -1,4 +1,4 @@
-![Output](output.png)
+![Output](.png)
 
 
 
