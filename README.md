@@ -1,3 +1,9 @@
+![output](file:///C:/Users/Antariksha/Pictures/Screenshots/Screenshot%20(210).png)
+
+
+
+
+
 🤖 RuleBot — Rule-Based Chatbot
 
 A modern desktop chatbot built with Python and Tkinter, combining simple rule-based conversational logic with a polished, futuristic user interface.
