@@ -1,4 +1,5 @@
-![output](file:///C:/Users/Antariksha/Pictures/Screenshots/Screenshot%20(210).png)
+<img src="file:///C:/Users/Antariksha/Pictures/Screenshots/Screenshot%20(210).png" alt="App Screenshot" width="500">
+
 
 
 
