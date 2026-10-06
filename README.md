@@ -1,4 +1,4 @@
-![Output](file:///C:/Users/Antariksha/Pictures/Screenshots/output.png)
+![Output](output.png)
 
 
 
